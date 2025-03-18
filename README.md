@@ -41,7 +41,6 @@ Place the downloaded file in the same directory of this repository.
 1. Address class imbalance using **oversampling** or **undersampling**.
 2. Experiment with other models like **XGBoost** or **Neural Networks**.
 3. Use metrics like **F1-score** and **Precision** for better evaluation.
-4. Deploy the model as an API or web application.
 
 ## How to Use
 
