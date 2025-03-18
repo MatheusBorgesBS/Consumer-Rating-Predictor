@@ -12,7 +12,7 @@ Due to its large size, the dataset is hosted externally. You can download it fro
 
 [Download Dataset] (https://www.mediafire.com/file/yo5c4488n3gmf40/dados2025.json/file)
 
-Place the downloaded file in the `data/` directory of this repository.
+Place the downloaded file in the same directory of this repository.
 
 ## Techniques Used
 
